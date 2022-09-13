@@ -1,0 +1,207 @@
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Authorization.exe
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Authorization.deps.json
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Authorization.runtimeconfig.json
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Authorization.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Authorization.pdb
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Humanizer.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\Authorization.csproj.AssemblyReference.cache
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\Authorization.AssemblyInfo.cs
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\Authorization.csproj.CopyComplete
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\Authorization.dll
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\Authorization.pdb
+C:\Users\Prince Goyal\Desktop\Cognizant\Training\Project\Project Git Repo\Authorization\obj\Release\netcoreapp3.1\Authorization.genruntimeconfig.cache
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\appsettings.json
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Authorization.exe
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Authorization.deps.json
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Authorization.runtimeconfig.json
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Authorization.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Authorization.pdb
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Humanizer.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MFPE\Internship Project Git\Authorization\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\Authorization.csproj.AssemblyReference.cache
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\Authorization.AssemblyInfo.cs
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\Authorization.csproj.CopyComplete
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\Authorization.dll
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\Authorization.pdb
+D:\MFPE\Internship Project Git\Authorization\obj\Release\netcoreapp3.1\Authorization.genruntimeconfig.cache
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\appsettings.json
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Authorization.exe
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Authorization.deps.json
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Authorization.runtimeconfig.json
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Authorization.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Authorization.pdb
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Humanizer.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Insurance Management System\Authorization\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\Authorization.csproj.AssemblyReference.cache
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\Authorization.AssemblyInfo.cs
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\Authorization.csproj.CopyComplete
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\Authorization.dll
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\Authorization.pdb
+D:\Insurance Management System\Authorization\obj\Release\netcoreapp3.1\Authorization.genruntimeconfig.cache

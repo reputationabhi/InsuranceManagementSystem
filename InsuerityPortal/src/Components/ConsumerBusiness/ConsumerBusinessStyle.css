@@ -1,0 +1,17 @@
+.formStyle {
+    text-align: center;
+}
+
+.formComponents {
+    width: 40%;
+    background-color: azure;
+    height: 50%;
+    border: 6px solid burlywood;
+    margin-top: 5%;
+    margin-left: 30%;
+}
+
+#view {
+    text-align: center;
+}
+
